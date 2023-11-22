@@ -1,0 +1,81 @@
+
+:root {
+    /* Colors */
+    --colours-gradient-blur: linear-gradient(
+      -77.07deg,
+      rgba(25, 25, 25, 0.7) 0%,
+      rgba(20, 20, 20, 0.3) 100%
+    );
+    --colours-gradient-green: linear-gradient(
+      0deg,
+      rgba(186, 243, 148, 1) 0%,
+      rgba(3, 190, 79, 1) 100%
+    );
+    --colours-gradient-pink: linear-gradient(
+      0deg,
+      rgba(239, 172, 192, 1) 0%,
+      rgba(248, 77, 139, 1) 100%
+    );
+    --colours-gradient-blue: linear-gradient(
+      0deg,
+      rgba(45, 208, 244, 1) 0%,
+      rgba(13, 105, 243, 1) 100%
+    );
+    --colours-gradient-red: linear-gradient(
+      0deg,
+      rgba(255, 116, 85, 1) 0%,
+      rgba(222, 34, 34, 1) 100%
+    );
+    --colours-gradient-cyan: linear-gradient(
+      0deg,
+      rgba(31, 212, 212, 1) 22.12088406085968%,
+      rgba(0, 134, 102, 1) 100%
+    );
+    --colours-gradient-yellow: linear-gradient(
+      0deg,
+      rgba(255, 238, 2, 1) 0%,
+      rgba(255, 193, 2, 1) 100%
+    );
+    --colours-gradient-black: linear-gradient(
+      -77.07deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(70, 69, 67, 1) 100%
+    );
+    --colours-gradient-green-graph: linear-gradient(
+      0deg,
+      rgba(186, 243, 148, 0.15) 0%,
+      rgba(3, 190, 79, 1) 100%
+    );
+    --colours-neutral-white: #e4e4e7;
+    --colours-neutral-gray: #71717a;
+    --colours-neutral-black-1: #19181b;
+    --colours-neutral-balck-2: #151419;
+    --colours-neutral-balck-3: #0f0e13;
+    --colours-neutral-balck-4: #0a0b0a;
+    --colours-brand-yellow: #ffee02;
+    --colours-brand-green: #3df279;
+    --colours-brand-pink: #f23d7c;
+    --colours-brand-blue: #3d5bf2;
+    --colours-brand-red: #f2443d;
+    --colours-brand-cyan: #3df2f2;
+  
+    /* Fonts */
+    --text-display-large: 400 57px/64px "Poppins-Regular", sans-serif;
+    --text-display-medium: 400 45px/52px "Poppins-Regular", sans-serif;
+    --text-display-small: 400 36px/44px "Poppins-Regular", sans-serif;
+    --text-headline-large: 400 32px/40px "Poppins-Regular", sans-serif;
+    --text-headline-medium: 400 28px/36px "Poppins-Regular", sans-serif;
+    --text-headline-small: 400 24px/32px "Poppins-Regular", sans-serif;
+    --text-title-large: 400 22px/28px "Poppins-Regular", sans-serif;
+    --text-title-medium: 500 16px/24px "Poppins-Medium", sans-serif;
+    --text-title-small: 500 14px/20px "Poppins-Medium", sans-serif;
+    --text-body-large: 400 16px/24px "Poppins-Regular", sans-serif;
+    --text-body-medium: 400 14px/20px "Poppins-Regular", sans-serif;
+    --text-body-small: 400 12px/16px "Poppins-Regular", sans-serif;
+    --text-label-large: 500 14px/20px "Poppins-Medium", sans-serif;
+    --text-label-medium: 500 12px/16px "Poppins-Medium", sans-serif;
+    --text-label-small: 500 11px/16px "Poppins-Medium", sans-serif;
+  
+    /* Effects */
+  }
+  

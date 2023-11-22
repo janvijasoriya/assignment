@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+/* -------------logo start----------------- */
+.layer-1,
+.layer-1 * {
+  box-sizing: border-box;
+}
+.layer-1 {
+  width: 310px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group4 {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 62.58%;
+  width: 37.42%;
+  bottom: -0.01%;
+  top: 16.12%;
+  height: 83.88%;
+  overflow: visible;
+}
+
+/* --------------logo end----------- */
+
+
+/* -------------avilable start--------- */
+.group-60,
+.group-60 * {
+  /* box-sizing: border-box; */
+}
+.group-60 {
+  /* position: relative; */
+  /* inset: 0; */
+}
+.rectangle-134 {
+  background: var(
+    --colours-gradient-black,
+    linear-gradient(-77.07deg, rgba(0, 0, 0, 1) 0%, rgba(70, 69, 67, 1) 100%)
+  );
+  border-radius: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-image: var(
+    --colours-gradient-yellow,
+    linear-gradient(0deg, rgba(255, 238, 2, 1) 0%, rgba(255, 193, 2, 1) 100%)
+  );
+  border-image-slice: 1;
+  opacity: 0.5;
+  width: 436px;
+  height: 52px;
+  /* position: absolute; */
+  /* left: 1220px;
+  top: 87px; */
+}
+.rectangle-135 {
+  background: var(
+    --colours-gradient-yellow,
+    linear-gradient(0deg, rgba(255, 238, 2, 1) 0%, rgba(255, 193, 2, 1) 100%)
+  );
+  border-radius: 16px;
+  width: 219px;
+  height: 52px;
+  /* position: absolute; */
+  /* left: 1437px;
+  top: 87px; */
+}
+.image-63 {
+  width: 116px;
+  height: 59px;
+  /* position: absolute; */
+  /* left: 1540px;
+  top: 72px; */
+}
+.season-1-devices-1000 {
+  color: var(--colours-neutral-white, #e4e4e7);
+  text-align: center;
+  font: 400 16px "-", sans-serif;
+  /* position: absolute; */
+  /* left: 1470px;
+  top: 145px; */
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.season-1-devices-1000-span {
+  color: var(--colours-neutral-white, #e4e4e7);
+  font: 500 16px "Poppins-Medium", sans-serif;
+}
+.season-1-devices-1000-span2 {
+  color: var(--colours-neutral-white, #e4e4e7);
+  font: 700 16px "Poppins-Bold", sans-serif;
+}
+.available-800 {
+  color: var(--colours-neutral-white, #e4e4e7);
+  text-align: left;
+  font: 700 16px "Poppins-Bold", sans-serif;
+  /* position: absolute; */
+  /* left: 1292px;
+  top: 101px; */
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.sold-200 {
+  color: var(--colours-neutral-black-1, #19181b);
+  text-align: right;
+  font: 700 16px "Poppins-Bold", sans-serif;
+  /* position: absolute; */
+  /* left: 1453px;
+  top: 101px; */
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+
+/* --------------avilable end -------------- */
